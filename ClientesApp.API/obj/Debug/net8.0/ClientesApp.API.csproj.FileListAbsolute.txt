@@ -1,0 +1,84 @@
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\appsettings.Development.json
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\appsettings.json
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.exe
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.deps.json
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.runtimeconfig.json
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.dll
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.pdb
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.csproj.AssemblyReference.cache
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.AssemblyInfoInputs.cache
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.AssemblyInfo.cs
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.csproj.CoreCompileInputs.cache
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets\msbuild.ClientesApp.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets\msbuild.build.ClientesApp.API.props
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ClientesApp.API.props
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ClientesApp.API.props
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\scopedcss\bundle\ClientesApp.API.styles.css
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.csproj.CopyComplete
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.dll
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\refint\ClientesApp.API.dll
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.pdb
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.genruntimeconfig.cache
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ref\ClientesApp.API.dll
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Dapper.dll
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.Data.dll
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.Data.pdb
+C:\CSharp_SQS_Manha_03\ClientesApp\ClientesApp.API\bin\Debug\net8.0\AutoMapper.dll
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\appsettings.Development.json
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\appsettings.json
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.exe
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.deps.json
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.runtimeconfig.json
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.dll
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.pdb
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\AutoMapper.dll
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Dapper.dll
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.Data.dll
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.Data.pdb
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.csproj.AssemblyReference.cache
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.AssemblyInfoInputs.cache
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.AssemblyInfo.cs
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.csproj.CoreCompileInputs.cache
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets\msbuild.ClientesApp.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets\msbuild.build.ClientesApp.API.props
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ClientesApp.API.props
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ClientesApp.API.props
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\scopedcss\bundle\ClientesApp.API.styles.css
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\Clientes.8154B6BE.Up2Date
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.dll
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\refint\ClientesApp.API.dll
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.pdb
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.genruntimeconfig.cache
+C:\COTI - CURSO DE CSHARP\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ref\ClientesApp.API.dll
